@@ -22,3 +22,6 @@ Admin Panel with Django
 - python3 manage.py migrate
 ## Abrir Consola Interactiva
 - python3 manage.py shell
+## Crear Super Usuario
+- python3 manage.py createsuperuser
+- Importar los modelos a admin.py de la aplicación
