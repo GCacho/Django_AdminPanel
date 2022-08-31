@@ -25,3 +25,5 @@ Admin Panel with Django
 ## Crear Super Usuario
 - python3 manage.py createsuperuser
 - Importar los modelos a admin.py de la aplicación
+## Iniciar el Servidor
+- python3 manage.py runserver
